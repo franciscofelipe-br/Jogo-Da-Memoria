@@ -1,5 +1,8 @@
 # Jogo-Da-Memoria
 
-Olá Galera!
+## Oi, tudo bem? Dá uma olhada no meu código, certo? 🙃
 
-Meu Projeto Sobre Jogo-Da-Memoria Hospedado: https://franciscofelipe-br.github.io/Jogo-Da-Memoria/
+Projeto Hospedado: https://franciscofelipe-br.github.io/Jogo-Da-Memoria/
+
+
+## 🚀 Let's code! 🚀
